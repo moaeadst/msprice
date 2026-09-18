@@ -1,0 +1,10 @@
+{
+  "name": "ماسح المنتجات - Product Scanner",
+  "description": "تطبيق متكامل لمسح المنتجات والباركود وإدارة المخزون وحساب الأرباح والأسعار مع التعرف البصري بالكاميرا",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
